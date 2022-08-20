@@ -6,7 +6,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--4-lightgrey)
 
-## Shopify UI Clone (FULLY Responsive) [Live Link](https://shopify-ui.netlify.app/)
+## Shopify UI Clone (FULLY Responsive) [Live Link](https://shopify-c.netlify.app/)
 
 ## Built using tailwind css only.
 
